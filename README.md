@@ -1,4 +1,4 @@
-https://github.com/PAPEL-404/File-Cloning.git
+git clone https://github.com/PAPEL-404/File-Cloning.git
 
 cd File-Cloning
 
